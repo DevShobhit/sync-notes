@@ -23,6 +23,8 @@ Make sure Tauri dev prerequisites are satisfied. Refer: https://v2.tauri.app/sta
 pnpm install
 ```
 
+- Run `pnpm tauri dev` to start dev server
+
 
 ## License
 MIT — see [LICENSE](LICENSE) for details.

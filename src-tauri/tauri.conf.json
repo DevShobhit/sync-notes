@@ -12,9 +12,24 @@
   "app": {
     "windows": [
       {
-        "title": "sync-notes",
+        "label": "main",
+        "title": "Sync Notes",
+        "url": "index.html",
         "width": 800,
         "height": 600
+      },
+      {
+        "label": "input",
+        "title": "Input Note",
+        "width": 600,
+        "url": "input.html",
+        "height": 200,
+        "resizable": false,
+        "decorations": false,
+        "center": true,
+        "alwaysOnTop": true,
+        "skipTaskbar": true,
+        "visible": false
       }
     ],
     "security": {
